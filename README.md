@@ -21,7 +21,7 @@ In this document, the key words “MUST”, “MUST NOT”, “REQUIRED”, “S
 
 ### Disclosure Policy
 
-The "Disclosure policy" refers to the section of the security policy where the vendor describes how someone can report a security issue. Vendors SHOULD use the SECURITY@domain email address for communications regarding security issues as per section 4 of [[RFC2142]](https://tools.ietf.org/html/rfc2142). This section also establishes a safe harbour where the vendor declares that they are ready to investigate legitimate reports and not take legal action against the reporter if the reporter abides by the vendor's security policy.
+The "Disclosure policy" refers to the section of the security policy where the vendor describes how someone can report a security issue. Vendors SHOULD use the SECURITY@domain email address for communications regarding security issues as per section 4 of [[RFC2142]](https://tools.ietf.org/html/rfc2142) and set up a security.txt file pointing to the security policy as per [[draft-foudil-securitytxt]](https://tools.ietf.org/html/draft-foudil-securitytxt-02). This section also establishes a safe harbour where the vendor declares that they are ready to investigate legitimate reports and not take legal action against the reporter if the reporter abides by the vendor's security policy.
 
 **💡 Example**
 
