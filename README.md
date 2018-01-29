@@ -2,6 +2,8 @@
 
 This document proposes a way of standardising the structure, language, and grammar used in security policies. The goal is to reduce ambiguity and confusion that stems from poorly-worded security policies. Organisations and individuals can refer back to this document if their security policy uses definitions found in this document.
 
+Please note, this is the informal specification; the Internet draft is located here: https://datatracker.ietf.org/doc/draft-foudil-spss/.
+
 In this document, the key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” are to be interpreted as described in [[RFC2119]](https://tools.ietf.org/html/rfc2119).
 
 ## Table of contents
